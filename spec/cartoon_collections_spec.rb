@@ -75,4 +75,5 @@ palanteer_calls.collect do |element|
 end 
 
 assorted_words = ["two", "go", "industrious", "bop"]
+i = 0
 if assorted_words.length 
