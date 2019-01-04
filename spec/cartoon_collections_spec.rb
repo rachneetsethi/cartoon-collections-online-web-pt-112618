@@ -74,3 +74,4 @@ palanteer_calls.collect do |element|
   "#{element}".upcase << !
 end 
 
+assorted_words = ["two", "go", "industrious", "bop"]
