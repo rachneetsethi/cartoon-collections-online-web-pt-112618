@@ -75,3 +75,4 @@ palanteer_calls.collect do |element|
 end 
 
 assorted_words = ["two", "go", "industrious", "bop"]
+if long_planeteer_calls(assorted_words).length 
