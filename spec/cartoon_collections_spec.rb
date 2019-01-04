@@ -76,4 +76,4 @@ end
 
 assorted_words = ["two", "go", "industrious", "bop"]
 i = 0
-if i < assorted_words.length 
+while i < assorted_words.length 
