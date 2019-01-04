@@ -76,4 +76,4 @@ end
 
 assorted_words = ["two", "go", "industrious", "bop"]
 i = 0
-if assorted_words.length 
+if assorted_words.length < 
